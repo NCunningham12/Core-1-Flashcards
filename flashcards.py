@@ -95,7 +95,7 @@ def run_flashcards():
 
         if cards1 == []:
             print("\n\nYou have completed all flashcards with " +
-                  str(mistakes) + " mistake(s)! Great Job!")
+                  str(mistakes) + " mistake(s)!")
             print("Great job!")
             restart_game()
             break
